@@ -27,6 +27,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "emilharvey.ca" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ehharvey
+repository: ehharvey/ehharvey.github.io
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
