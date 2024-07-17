@@ -71,6 +71,9 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       author_profile: true
+  - scope: "samples/"
+    values:
+      pdf: true
   - scope:
       path: "_posts/"
     values:
